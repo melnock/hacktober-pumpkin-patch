@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Welcome to the pumpkin patch! 
+This project is intended to be a space for an introduction to open source.  Feel free to add pumpkins to the patch.
 
 ## Available Scripts
 
