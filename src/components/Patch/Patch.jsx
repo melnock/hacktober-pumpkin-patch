@@ -106,9 +106,9 @@ class Patch extends React.Component {
       .map((row, index) => <PatchRow key={index} pumpkins={row}/>);
     return (
       <div className="patch">
-        {carouselUp && <div className="carousel-arrow up"/>}
+        {carouselUp && <div className="carousel-arrow up" onClick={this.handleCarouselUp}/>}
         {PatchRows}
-        {carouselDown && <div className="carousel-arrow down"/>}
+        {carouselDown && <div className="carousel-arrow down" onClick={this.handleCarouselDown}/>}
       </div>
     );
   }
