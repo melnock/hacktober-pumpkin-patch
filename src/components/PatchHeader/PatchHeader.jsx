@@ -6,7 +6,7 @@ function PatchHeader() {
   const numberOfFences = Math.floor(window.innerWidth / 346);
   const Fences = [];
   for (let i = 0; i < numberOfFences; i++) {
-    Fences.push(<img src={fence} alt="spooky fence"/>)
+    Fences.push(<img key={i} src={fence} alt="spooky fence"/>)
   }
 
   return (
