@@ -1,0 +1,34 @@
+.patch-header {
+    width: 100vw;
+    height: 100px;
+    background-color: #282c34;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.patch-header h1 {
+    width: 100%;
+    padding: 10px 100px;
+    color: darkorange;
+    font-family: Monospaced, sans-serif;
+    font-size: 30px;
+    text-align: left;
+}
+
+.patch-header img {
+    width: 346px;
+    height: 131px;
+}
+
+.fence-wrapper {
+    width: 100vw;
+    height: 131px;
+    position: absolute;
+    top: 35px;
+    display: flex;
+    align-items: center;
+    z-index: 1;
+    justify-content: center;
+
+}
