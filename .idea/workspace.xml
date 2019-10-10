@@ -28902,6 +28902,7 @@
       <change beforePath="$PROJECT_DIR$/node_modules/yargs/node_modules/string-width/readme.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/yargs/package.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/yargs/yargs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/pumpkinRows.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/pumpkinRows.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28990,7 +28991,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
